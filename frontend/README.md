@@ -46,6 +46,7 @@ Contributions are welcome! Please feel free to submit pull requests or create is
 - No automatic component tests, integration test etc.
 - No constants used for example for the backend URLs
 - No security configured on the hosting service
+- No git best practices applied
 - There could be several improvements:
   - regarding error handling
   - optimised code base
