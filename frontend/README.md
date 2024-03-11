@@ -23,8 +23,6 @@ Create a Firebase project and configure authentication according to your require
 ## Running the Application
 To start the application, run:
 
-bash
-Copy code
 npm start
 This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
 
