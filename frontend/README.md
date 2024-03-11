@@ -43,5 +43,8 @@ Upon starting the app, you will be presented with a login/sign-up screen. After 
 Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
 
 # Shortcuts
-
+- No automatic tests added
+- No constants used for example for the backend URLs
+- No security configured on the hosting service
+- 
 
