@@ -49,6 +49,6 @@ Contributions are welcome! Please feel free to submit pull requests or create is
 - No git best practices applied
 - No product deployment notes provided since this is not a production ready app.
 - There could be several improvements:
-  - regarding error handling
-  - optimised code base
+  - Well thought out error handling, remote logging etc.
+  - Optimised code base
 
