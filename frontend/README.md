@@ -42,12 +42,17 @@ Upon starting the app, you will be presented with a login/sign-up screen. After 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
 
+## Facts
+- Covers 100% of the functional requirements
+- Extra functionality: product remove X on the right side of the product list
+
 ## Shortcuts
 - No automatic component tests, integration test etc.
 - No constants used for example for the backend URLs
 - No security configured on the hosting service
 - No git best practices applied
-- No product deployment notes provided since this is not a production ready app.
+- Several styling issues visible as a lack of time to complete the project
+- No production deployment notes provided since this is not a production ready app.
 - There could be several improvements:
   - Well thought out error handling, remote logging etc.
   - Optimised code base
