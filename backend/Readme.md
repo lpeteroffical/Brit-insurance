@@ -49,17 +49,25 @@ CORS is configured to allow requests from http://localhost:3001. Modify the orig
 # Contribution
 Feel free to fork the repository and submit pull requests. For bugs and feature requests, please create an issue in the repository.
 
-Facts:
--fully working functionality
+# Facts:
+-fully working functionality as requirement
 -extra remove product functionality
+-extra database column: user id. this means all registered users have their own product list that they can manage
+-summ calculated on the fly at the backend
 -embeded sqlite database
 -Firebase authentication client and serverside
+-Firebase login & registration
+-Embeded database init and table creation if it does not exist during the startup signal
+-DB shutdown at app shutdown signal
 
 
 # Shortcuts:
-- No automatic testing added
-- Some style related issues left in the code
-- No github best practices applied
+-No automatic testing added
+-Some style related issues left in the code
+-No github best practices applied
+-Database is embeded, I would never do that in a production ready app.
+-No containerisation
+-No security configured
 
 
 
