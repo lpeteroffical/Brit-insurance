@@ -1,4 +1,4 @@
-##M y FastAPI Application
+## FastAPI Product Management Application
 # Overview
 This project is a FastAPI-based web application designed to manage products. It provides a REST API for adding, reading, and deleting products associated with authenticated users. Authentication is handled through Firebase Admin SDK, ensuring secure access to the application's functionalities.
 
