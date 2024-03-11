@@ -57,9 +57,10 @@ Facts:
 
 
 # Shortcuts:
--No testing added
--Some style related issues left in the code
--No github best practices applied
+- No automatic testing added
+- Some style related issues left in the code
+- No github best practices applied
+
 
 
 
