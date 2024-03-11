@@ -1,4 +1,4 @@
-## FastAPI Product Management Application
+### FastAPI Product Management Application
 # Overview
 This project is a FastAPI-based web application designed to manage products. It provides a REST API for adding, reading, and deleting products associated with authenticated users. Authentication is handled through Firebase Admin SDK, ensuring secure access to the application's functionalities.
 
@@ -63,6 +63,7 @@ Feel free to fork the repository and submit pull requests. For bugs and feature 
 
 # Shortcuts:
 - No automatic testing added
+- No git best practices applied
 - Some style related issues left in the code
 - No github best practices applied
 - Database is embeded, I would never do that in a production ready app.
