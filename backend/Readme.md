@@ -68,6 +68,9 @@ Feel free to fork the repository and submit pull requests. For bugs and feature 
 - Database is embeded, I would never do that in a production ready app.
 - No containerisation
 - No security configured
+- Improvements:
+  - There could be significantly better error handling, remote logging etc.
+  - Code base optimisation
 
 
 
