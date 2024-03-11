@@ -1,0 +1,18 @@
+/* Form.css */
+.form-container {
+    position: relative;
+    background-color: #3498db  !important; /* Blue background */
+    border-radius: 60px; /* Rounded corners */
+    padding: 40px;
+    width: 100%;
+    max-width: 820px;
+    max-height: 620px;
+    margin: 50px auto; /* Center the form */
+    color: white;
+  }
+  
+  .sum-btn {
+    background-color: #e67e22 !important; /* Orange background for inputs */
+    border: none;
+    padding: 10px;
+  }

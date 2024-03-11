@@ -1,0 +1,79 @@
+/* Auth.css */
+.auth-container {
+  position: relative;
+  background-color: #3498db  !important; /* Blue background */
+  border-radius: 60px; /* Rounded corners */
+  padding: 40px;
+  width: 100%;
+  max-width: 820px;
+  max-height: 620px;
+  margin: 50px auto; /* Center the form */
+  color: white;
+}
+
+/* Bold placeholder text for input fields */
+.auth-container input::placeholder {
+  font-weight: italic !important;
+  background-color: #FFFF  !important;
+  font-size: 0.4rem;
+  padding: 0.5rem;
+}
+
+
+h1 {
+  margin-bottom: 20px;
+}
+
+/* Rest of your styles... */
+
+.auth-form-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Adjust the gap between the input fields as needed */
+}
+
+.auth-form-group input {
+  flex: 1; /* Allows input fields to grow and fill the space */
+}
+
+.auth-form-submit {
+  margin-top: 10px; /* Adds some space between the inputs and the submit button */
+}
+
+.auth-input {
+  background-color: #e67e22; /* Orange background for inputs */
+  border: none;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px; /* Rounded corners for inputs */
+  width: calc(100% - 20px); /* Full width minus padding */
+}
+
+.auth-button {
+  position: absolute;
+  background-color: #e67e22   !important; /* Orange background for button */
+  border: none;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px; /* Rounded corners for button */
+  cursor: pointer;
+  color: white;
+  top: 22rem; /* Align to the top of .auth-container */
+  right: 24rem; /* Align to the right of .auth-container */
+}
+
+.signup-btn {
+  position: absolute; /* Position the button absolutely within .auth-container */
+  background-color: #e67e22   !important;
+  color: white !important;
+  top: 5rem; /* Align to the top of .auth-container */
+  right: 5rem; /* Align to the right of .auth-container */
+}
+
+.error-message {
+  background-color: #e74c3c; /* Red background for error message */
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
